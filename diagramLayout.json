@@ -1,0 +1,118 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 206.14035034179688,
+        "y": 26.3157901763916
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 18.744186046511629,
+            "y": 266.06279069767436
+          },
+          "nodeIndex": "Catégorie",
+          "size": {
+            "height": 337,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 521.05348837209294,
+            "y": 272.23004523232976
+          },
+          "nodeIndex": "Département",
+          "size": {
+            "height": 192,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 48.08372093023263,
+            "y": 34.062790697674394
+          },
+          "nodeIndex": "Etablissement",
+          "size": {
+            "height": 192,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 830.95348837209281,
+            "y": 0
+          },
+          "nodeIndex": "Indicateurs Paie",
+          "size": {
+            "height": 337,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 335.70975921780052,
+            "y": 0
+          },
+          "nodeIndex": "Liste salarié",
+          "size": {
+            "height": 232.23004523232976,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 795.05348837209294,
+            "y": 398.946511627907
+          },
+          "nodeIndex": "Service",
+          "size": {
+            "height": 192,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1069.0534883720929,
+            "y": 377
+          },
+          "nodeIndex": "Table_Date",
+          "size": {
+            "height": 264,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1182.9,
+            "y": 0
+          },
+          "nodeIndex": "Table_Choix",
+          "size": {
+            "height": 245,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Toutes les tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Toutes les tables",
+  "defaultDiagram": "Toutes les tables"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Projet personnel RH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4d006bf5-b688-4b8b-b7e9-5842425efcdf"
+  }
+}
